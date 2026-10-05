@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Tahina Rabary
 
-## 💻 Technicien supérieur en électronique et informatique
+## 💻 cadre maintenancier en électronique et informatique 
 
 Je m'intéresse particulièrement à :
 
