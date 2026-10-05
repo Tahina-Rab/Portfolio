@@ -40,9 +40,9 @@ Mise en place et diagnostic de tunnels VPN IPsec entre différents réseaux.
 Implémentation en Python de concepts liés aux codes correcteurs d'erreurs et au calcul du syndrome.
 
 ## 🎓 Formation
--**Technicien en telecommunication aeronautique**- ASECNA 
--**Exploitant en aeronautique civile en électronique et informatique.(bac+4)**-ASECNA
--**Double maitrise en mathematique appliqué(probabilité statistique) et mathematique pure**-Ankatso
+-**Technicien en telecommunication aeronautique**- ASECNA <br>
+-**Exploitant en aeronautique civile en électronique et informatique.(bac+4)**-ASECNA <br>
+-**Double maitrise en mathematique appliqué(probabilité statistique) et mathematique pure**-Ankatso<br>
 -**Memoire master 2 en cours en mathematique et informatique option calcul numerique**
 
 ## 🌍 Langues
