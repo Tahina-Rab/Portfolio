@@ -38,6 +38,10 @@ Mise en place et diagnostic de tunnels VPN IPsec entre différents réseaux.
 
 ### 🔢 Code de Goppa
 Implémentation en Python de concepts liés aux codes correcteurs d'erreurs et au calcul du syndrome.
+### 💻 Developpement d'un logiciel de gestion scolaire
+Implémentation en python d'une application pour faire la gestion d'une ou plusieurs ecole(les elèves,les enseignants,les matieres,les factures,etx)
+### 💻 Developpement d'un logiciel de gestion de planning de congé et de service
+Developpement d'un logiciel de gestion de planing de permanence ainis que de la gestion de congé de chaque personnel dans une entreprise
 
 ## 🎓 Formation
 -**Technicien en telecommunication aeronautique**- ASECNA <br>
